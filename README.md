@@ -77,7 +77,7 @@ longer object length
         is not a multiple of shorter object length in: a + b
 ```
 
-Mentre lavoriamo in R e creiamo nuovi vettori, può essere facile perdere traccia di quali variabili abbiamo definito. Per ottenere un elenco di tutte le variabili che sono state definite, utilizziamo il comando ```{r}ls ():```
+Mentre lavoriamo in R e creiamo nuovi vettori, può essere facile perdere traccia di quali variabili abbiamo definito. Per ottenere un elenco di tutte le variabili che sono state definite, utilizziamo il comando ```ls ():```
 
 ```{r}
 > ls () 
